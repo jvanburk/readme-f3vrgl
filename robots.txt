@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jvanburk.github.io/readme-f3vrgl/sitemap.xml
